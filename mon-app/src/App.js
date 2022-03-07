@@ -9,7 +9,8 @@ function App() {
     <div className="App">
       <Plop />
       <Headerperso />
-      <Panier/>
+      <Panier />
+      <Styles/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
